@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="gridViewMarginTop" format="integer"/>
+    <attr name="numberItemWidth" format="integer"/>
+    <attr name="numberItemHeight" format="integer"/>
+    <attr name="rowInterval" format="integer"/>
+    <attr name="columnInterval" format="integer"/>
+    <attr name="columnCount" format="integer"/>
+
+    <declare-styleable name="PhoneNumberInputView">
+        <!--<attr name="numberItemWidth" format="integer" />-->
+        <!--<attr name="numberItemHeight" format="integer" />-->
+        <!--<attr name="rowInterval" format="integer" />-->
+        <!--<attr name="columnInterval" format="integer" />-->
+        <!--<attr name="columnCount" format="integer" />-->
+        <attr name="gridViewMarginTop"/>
+        <attr name="numberItemWidth"/>
+        <attr name="numberItemHeight"/>
+        <attr name="rowInterval"/>
+        <attr name="columnInterval"/>
+        <attr name="columnCount"/>
+    </declare-styleable>
+
+</resources>

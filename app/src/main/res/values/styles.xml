@@ -8,4 +8,32 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="phone_number_input_item_root">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <!--<item name="android:focusable">true</item>-->
+    <!--<item name="android:focusableInTouchMode">true</item>-->
+    <!--<item name="android:descendantFocusability">afterDescendants</item>-->
+
+    <style name="phone_number_input_base">
+        <item name="android:layout_width">@dimen/button_width</item>
+        <item name="android:layout_height">@dimen/button_width</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:textColor">@color/phone_number_text</item>
+        <item name="android:background">@drawable/selector_phone_number_button</item>
+    </style>
+
+    <!-- 数字 -->
+    <style name="phone_number_input_number" parent="phone_number_input_base">
+        <item name="android:textSize">@dimen/phone_number_text_number</item>
+    </style>
+
+    <!-- 命令 -->
+    <style name="phone_number_input_command" parent="phone_number_input_base">
+        <item name="android:textSize">@dimen/phone_number_text_command</item>
+    </style>
+
 </resources>

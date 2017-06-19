@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="phone_number_bg">#7e084b</color>
+    <color name="phone_number_border_select">#ffffff</color>
+    <color name="phone_number_text">#ffffff</color>
+    <color name="phone_number_input_head_separate_line">#616469</color>
 </resources>

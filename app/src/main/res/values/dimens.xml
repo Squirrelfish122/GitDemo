@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="phone_number_bg_border_width">4px</dimen>
+    <dimen name="phone_number_round_radius">16px</dimen>
+    <dimen name="button_width">120px</dimen>
+
+    <dimen name="phone_number_text_number">50px</dimen>
+    <dimen name="phone_number_text_command">30px</dimen>
+
+    <dimen name="phone_number_input_head_height">64px</dimen>
+    <dimen name="phone_number_input_head_separate_line_height">2px</dimen>
+
+    <dimen name="phone_number_input_head_icon_width">28px</dimen>
+    <dimen name="phone_number_input_head_icon_height">42px</dimen>
+    <dimen name="phone_number_input_head_icon_margin_top">10px</dimen>
+    <dimen name="phone_number_input_head_icon_margin_right">20px</dimen>
+
+    <dimen name="phone_number_input_head_number_txt_text_size">35px</dimen>
+    <dimen name="phone_number_input_head_number_margin_top">5px</dimen>
+
+    <dimen name="phone_number_input_grid_view_margin_top">83px</dimen>
+
+</resources>
