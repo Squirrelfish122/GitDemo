@@ -20,4 +20,13 @@
 
     <dimen name="phone_number_input_grid_view_margin_top">83px</dimen>
 
+    <dimen name="phone_number_input_margin_top">198px</dimen>
+    <dimen name="phone_number_input_margin_left">135px</dimen>
+    <dimen name="phone_number_input_width">510px</dimen>
+
+    <dimen name="main_layout_width">1920px</dimen>
+    <dimen name="main_layout_height">1080px</dimen>
+
+    <dimen name="content_layout_height">760px</dimen>
+
 </resources>
